@@ -1,0 +1,9 @@
+{
+  "name": "apex-performance-club-test",
+  "version": "1.0.0",
+  "description": "Verification script for Apex Performance Club website",
+  "main": "test-website.js",
+  "dependencies": {
+    "chrome-remote-interface": "^0.33.0"
+  }
+}
